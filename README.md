@@ -1,2 +1,2 @@
-# fluidfaces
-FluidFaces Privacy Policy
+# Privacy Policy
+FluidFaces/FluidWarp Privacy Policy
